@@ -1,5 +1,7 @@
 <html>
 <body>
-<h1>Mooi weer</h1>
+
+<img alt="lente" src="lente.jpg" align="middle">
+
 </body>
 </html>
